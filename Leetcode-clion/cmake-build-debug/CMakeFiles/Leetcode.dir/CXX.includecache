@@ -6,6 +6,7 @@
 
 #IncludeRegexTransform: 
 
+<<<<<<< HEAD
 C:/Users/fay/Documents/Github/leetcode/Leetcode-clion/offer_51_reversed_pairs.cpp
 template.h
 C:/Users/fay/Documents/Github/leetcode/Leetcode-clion/template.h
@@ -15,6 +16,17 @@ template.h
 C:/Users/fay/Documents/Github/leetcode/Leetcode-clion/template.h
 
 C:/Users/fay/Documents/Github/leetcode/Leetcode-clion/template.h
+=======
+C:/Users/fay/CLionProjects/Leetcode/offer_51_reversed_pairs.cpp
+template.h
+C:/Users/fay/CLionProjects/Leetcode/template.h
+
+C:/Users/fay/CLionProjects/Leetcode/template.cpp
+template.h
+C:/Users/fay/CLionProjects/Leetcode/template.h
+
+C:/Users/fay/CLionProjects/Leetcode/template.h
+>>>>>>> 17da05fce2b82d79c00523e2f51d561282a4860b
 iostream
 -
 vector

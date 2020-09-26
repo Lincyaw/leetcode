@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 "C:\Program Files\JetBrains\CLion 2020.2.3\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - NMake Makefiles" C:\Users\fay\Documents\Github\leetcode\Leetcode-clion
 -- The C compiler identification is MSVC 19.27.29111.0
 -- The CXX compiler identification is MSVC 19.27.29111.0
@@ -16,3 +17,9 @@
 -- Configuring done
 -- Generating done
 -- Build files have been written to: C:/Users/fay/Documents/Github/leetcode/Leetcode-clion/cmake-build-debug
+=======
+"C:\Program Files\JetBrains\CLion 2020.2.3\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - NMake Makefiles" C:\Users\fay\CLionProjects\Leetcode
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/fay/CLionProjects/Leetcode/cmake-build-debug
+>>>>>>> 17da05fce2b82d79c00523e2f51d561282a4860b

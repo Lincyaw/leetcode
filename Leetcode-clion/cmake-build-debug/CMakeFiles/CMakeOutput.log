@@ -21,7 +21,11 @@ Compilation of the C compiler identification source "CMakeCCompilerId.c" produce
 
 Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
 
+<<<<<<< HEAD
 The C compiler identification is MSVC, found in "C:/Users/fay/Documents/Github/leetcode/Leetcode-clion/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdC/CMakeCCompilerId.exe"
+=======
+The C compiler identification is MSVC, found in "C:/Users/fay/CLionProjects/Leetcode/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdC/CMakeCCompilerId.exe"
+>>>>>>> 17da05fce2b82d79c00523e2f51d561282a4860b
 
 Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
 Compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.27.29110/bin/Hostx86/x86/cl.exe 
@@ -45,6 +49,7 @@ Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" p
 
 Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.obj"
 
+<<<<<<< HEAD
 The CXX compiler identification is MSVC, found in "C:/Users/fay/Documents/Github/leetcode/Leetcode-clion/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdCXX/CMakeCXXCompilerId.exe"
 
 Determining if the C compiler works passed with the following output:
@@ -56,10 +61,24 @@ Building C object CMakeFiles/cmTC_85cd9.dir/testCCompiler.c.obj
 testCCompiler.c
 Linking C executable cmTC_85cd9.exe
 	"C:\Program Files\JetBrains\CLion 2020.2.3\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_85cd9.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x86\mt.exe --manifests  -- C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_85cd9.dir\objects1.rsp @C:\Users\fay\AppData\Local\Temp\nmB8EA.tmp
+=======
+The CXX compiler identification is MSVC, found in "C:/Users/fay/CLionProjects/Leetcode/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdCXX/CMakeCXXCompilerId.exe"
+
+Determining if the C compiler works passed with the following output:
+Change Dir: C:/Users/fay/CLionProjects/Leetcode/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake /nologo cmTC_28962\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_28962.dir\build.make /nologo -L                  CMakeFiles\cmTC_28962.dir\build
+Building C object CMakeFiles/cmTC_28962.dir/testCCompiler.c.obj
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe @C:\Users\fay\AppData\Local\Temp\nm11E8.tmp
+testCCompiler.c
+Linking C executable cmTC_28962.exe
+	"C:\Program Files\JetBrains\CLion 2020.2.3\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_28962.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x86\mt.exe --manifests  -- C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_28962.dir\objects1.rsp @C:\Users\fay\AppData\Local\Temp\nm1360.tmp
+>>>>>>> 17da05fce2b82d79c00523e2f51d561282a4860b
 
 
 
 Detecting C compiler ABI info compiled with the following output:
+<<<<<<< HEAD
 Change Dir: C:/Users/fay/Documents/Github/leetcode/Leetcode-clion/cmake-build-debug/CMakeFiles/CMakeTmp
 
 Run Build Command(s):nmake /nologo cmTC_13590\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_13590.dir\build.make /nologo -L                  CMakeFiles\cmTC_13590.dir\build
@@ -68,10 +87,21 @@ Building C object CMakeFiles/cmTC_13590.dir/CMakeCCompilerABI.c.obj
 CMakeCCompilerABI.c
 Linking C executable cmTC_13590.exe
 	"C:\Program Files\JetBrains\CLion 2020.2.3\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_13590.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x86\mt.exe --manifests  -- C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_13590.dir\objects1.rsp @C:\Users\fay\AppData\Local\Temp\nmBB89.tmp
+=======
+Change Dir: C:/Users/fay/CLionProjects/Leetcode/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake /nologo cmTC_f561a\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_f561a.dir\build.make /nologo -L                  CMakeFiles\cmTC_f561a.dir\build
+Building C object CMakeFiles/cmTC_f561a.dir/CMakeCCompilerABI.c.obj
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe @C:\Users\fay\AppData\Local\Temp\nm15F0.tmp
+CMakeCCompilerABI.c
+Linking C executable cmTC_f561a.exe
+	"C:\Program Files\JetBrains\CLion 2020.2.3\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_f561a.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x86\mt.exe --manifests  -- C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_f561a.dir\objects1.rsp @C:\Users\fay\AppData\Local\Temp\nm163F.tmp
+>>>>>>> 17da05fce2b82d79c00523e2f51d561282a4860b
 
 
 
 Determining if the CXX compiler works passed with the following output:
+<<<<<<< HEAD
 Change Dir: C:/Users/fay/Documents/Github/leetcode/Leetcode-clion/cmake-build-debug/CMakeFiles/CMakeTmp
 
 Run Build Command(s):nmake /nologo cmTC_83d4d\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_83d4d.dir\build.make /nologo -L                  CMakeFiles\cmTC_83d4d.dir\build
@@ -80,10 +110,21 @@ Building CXX object CMakeFiles/cmTC_83d4d.dir/testCXXCompiler.cxx.obj
 testCXXCompiler.cxx
 Linking CXX executable cmTC_83d4d.exe
 	"C:\Program Files\JetBrains\CLion 2020.2.3\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_83d4d.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x86\mt.exe --manifests  -- C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_83d4d.dir\objects1.rsp @C:\Users\fay\AppData\Local\Temp\nmBE39.tmp
+=======
+Change Dir: C:/Users/fay/CLionProjects/Leetcode/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake /nologo cmTC_3b643\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_3b643.dir\build.make /nologo -L                  CMakeFiles\cmTC_3b643.dir\build
+Building CXX object CMakeFiles/cmTC_3b643.dir/testCXXCompiler.cxx.obj
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe @C:\Users\fay\AppData\Local\Temp\nm1812.tmp
+testCXXCompiler.cxx
+Linking CXX executable cmTC_3b643.exe
+	"C:\Program Files\JetBrains\CLion 2020.2.3\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_3b643.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x86\mt.exe --manifests  -- C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_3b643.dir\objects1.rsp @C:\Users\fay\AppData\Local\Temp\nm1871.tmp
+>>>>>>> 17da05fce2b82d79c00523e2f51d561282a4860b
 
 
 
 Detecting CXX compiler ABI info compiled with the following output:
+<<<<<<< HEAD
 Change Dir: C:/Users/fay/Documents/Github/leetcode/Leetcode-clion/cmake-build-debug/CMakeFiles/CMakeTmp
 
 Run Build Command(s):nmake /nologo cmTC_d9413\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_d9413.dir\build.make /nologo -L                  CMakeFiles\cmTC_d9413.dir\build
@@ -92,6 +133,16 @@ Building CXX object CMakeFiles/cmTC_d9413.dir/CMakeCXXCompilerABI.cpp.obj
 CMakeCXXCompilerABI.cpp
 Linking CXX executable cmTC_d9413.exe
 	"C:\Program Files\JetBrains\CLion 2020.2.3\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_d9413.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x86\mt.exe --manifests  -- C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_d9413.dir\objects1.rsp @C:\Users\fay\AppData\Local\Temp\nmC137.tmp
+=======
+Change Dir: C:/Users/fay/CLionProjects/Leetcode/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake /nologo cmTC_d68b7\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_d68b7.dir\build.make /nologo -L                  CMakeFiles\cmTC_d68b7.dir\build
+Building CXX object CMakeFiles/cmTC_d68b7.dir/CMakeCXXCompilerABI.cpp.obj
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe @C:\Users\fay\AppData\Local\Temp\nm1A35.tmp
+CMakeCXXCompilerABI.cpp
+Linking CXX executable cmTC_d68b7.exe
+	"C:\Program Files\JetBrains\CLion 2020.2.3\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_d68b7.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x86\mt.exe --manifests  -- C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_d68b7.dir\objects1.rsp @C:\Users\fay\AppData\Local\Temp\nm1A94.tmp
+>>>>>>> 17da05fce2b82d79c00523e2f51d561282a4860b
 
 
 

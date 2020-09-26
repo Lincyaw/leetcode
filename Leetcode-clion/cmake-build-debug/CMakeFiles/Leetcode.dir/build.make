@@ -47,10 +47,17 @@ RM = "C:\Program Files\JetBrains\CLion 2020.2.3\bin\cmake\win\bin\cmake.exe" -E 
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
+<<<<<<< HEAD
 CMAKE_SOURCE_DIR = C:\Users\fay\Documents\Github\leetcode\Leetcode-clion
 
 # The top-level build directory on which CMake was run.
 CMAKE_BINARY_DIR = C:\Users\fay\Documents\Github\leetcode\Leetcode-clion\cmake-build-debug
+=======
+CMAKE_SOURCE_DIR = C:\Users\fay\CLionProjects\Leetcode
+
+# The top-level build directory on which CMake was run.
+CMAKE_BINARY_DIR = C:\Users\fay\CLionProjects\Leetcode\cmake-build-debug
+>>>>>>> 17da05fce2b82d79c00523e2f51d561282a4860b
 
 # Include any dependencies generated for this target.
 include CMakeFiles\Leetcode.dir\depend.make
@@ -63,40 +70,68 @@ include CMakeFiles\Leetcode.dir\flags.make
 
 CMakeFiles\Leetcode.dir\offer_51_reversed_pairs.cpp.obj: CMakeFiles\Leetcode.dir\flags.make
 CMakeFiles\Leetcode.dir\offer_51_reversed_pairs.cpp.obj: ..\offer_51_reversed_pairs.cpp
+<<<<<<< HEAD
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\fay\Documents\Github\leetcode\Leetcode-clion\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Leetcode.dir/offer_51_reversed_pairs.cpp.obj"
 	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe @<<
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\Leetcode.dir\offer_51_reversed_pairs.cpp.obj /FdCMakeFiles\Leetcode.dir\ /FS -c C:\Users\fay\Documents\Github\leetcode\Leetcode-clion\offer_51_reversed_pairs.cpp
+=======
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\fay\CLionProjects\Leetcode\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Leetcode.dir/offer_51_reversed_pairs.cpp.obj"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\Leetcode.dir\offer_51_reversed_pairs.cpp.obj /FdCMakeFiles\Leetcode.dir\ /FS -c C:\Users\fay\CLionProjects\Leetcode\offer_51_reversed_pairs.cpp
+>>>>>>> 17da05fce2b82d79c00523e2f51d561282a4860b
 <<
 
 CMakeFiles\Leetcode.dir\offer_51_reversed_pairs.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Leetcode.dir/offer_51_reversed_pairs.cpp.i"
 	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe > CMakeFiles\Leetcode.dir\offer_51_reversed_pairs.cpp.i @<<
+<<<<<<< HEAD
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\fay\Documents\Github\leetcode\Leetcode-clion\offer_51_reversed_pairs.cpp
+=======
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\fay\CLionProjects\Leetcode\offer_51_reversed_pairs.cpp
+>>>>>>> 17da05fce2b82d79c00523e2f51d561282a4860b
 <<
 
 CMakeFiles\Leetcode.dir\offer_51_reversed_pairs.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Leetcode.dir/offer_51_reversed_pairs.cpp.s"
 	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe @<<
+<<<<<<< HEAD
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\Leetcode.dir\offer_51_reversed_pairs.cpp.s /c C:\Users\fay\Documents\Github\leetcode\Leetcode-clion\offer_51_reversed_pairs.cpp
+=======
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\Leetcode.dir\offer_51_reversed_pairs.cpp.s /c C:\Users\fay\CLionProjects\Leetcode\offer_51_reversed_pairs.cpp
+>>>>>>> 17da05fce2b82d79c00523e2f51d561282a4860b
 <<
 
 CMakeFiles\Leetcode.dir\template.cpp.obj: CMakeFiles\Leetcode.dir\flags.make
 CMakeFiles\Leetcode.dir\template.cpp.obj: ..\template.cpp
+<<<<<<< HEAD
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\fay\Documents\Github\leetcode\Leetcode-clion\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Leetcode.dir/template.cpp.obj"
 	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe @<<
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\Leetcode.dir\template.cpp.obj /FdCMakeFiles\Leetcode.dir\ /FS -c C:\Users\fay\Documents\Github\leetcode\Leetcode-clion\template.cpp
+=======
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\fay\CLionProjects\Leetcode\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Leetcode.dir/template.cpp.obj"
+	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\Leetcode.dir\template.cpp.obj /FdCMakeFiles\Leetcode.dir\ /FS -c C:\Users\fay\CLionProjects\Leetcode\template.cpp
+>>>>>>> 17da05fce2b82d79c00523e2f51d561282a4860b
 <<
 
 CMakeFiles\Leetcode.dir\template.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Leetcode.dir/template.cpp.i"
 	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe > CMakeFiles\Leetcode.dir\template.cpp.i @<<
+<<<<<<< HEAD
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\fay\Documents\Github\leetcode\Leetcode-clion\template.cpp
+=======
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\fay\CLionProjects\Leetcode\template.cpp
+>>>>>>> 17da05fce2b82d79c00523e2f51d561282a4860b
 <<
 
 CMakeFiles\Leetcode.dir\template.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Leetcode.dir/template.cpp.s"
 	C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\cl.exe @<<
+<<<<<<< HEAD
  /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\Leetcode.dir\template.cpp.s /c C:\Users\fay\Documents\Github\leetcode\Leetcode-clion\template.cpp
+=======
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\Leetcode.dir\template.cpp.s /c C:\Users\fay\CLionProjects\Leetcode\template.cpp
+>>>>>>> 17da05fce2b82d79c00523e2f51d561282a4860b
 <<
 
 # Object files for target Leetcode
@@ -111,9 +146,15 @@ Leetcode.exe: CMakeFiles\Leetcode.dir\offer_51_reversed_pairs.cpp.obj
 Leetcode.exe: CMakeFiles\Leetcode.dir\template.cpp.obj
 Leetcode.exe: CMakeFiles\Leetcode.dir\build.make
 Leetcode.exe: CMakeFiles\Leetcode.dir\objects1.rsp
+<<<<<<< HEAD
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\fay\Documents\Github\leetcode\Leetcode-clion\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable Leetcode.exe"
 	"C:\Program Files\JetBrains\CLion 2020.2.3\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\Leetcode.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x86\mt.exe --manifests  -- C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\Leetcode.dir\objects1.rsp @<<
  /out:Leetcode.exe /implib:Leetcode.lib /pdb:C:\Users\fay\Documents\Github\leetcode\Leetcode-clion\cmake-build-debug\Leetcode.pdb /version:0.0  /machine:X86 /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib 
+=======
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\fay\CLionProjects\Leetcode\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable Leetcode.exe"
+	"C:\Program Files\JetBrains\CLion 2020.2.3\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\Leetcode.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x86\mt.exe --manifests  -- C:\PROGRA~2\MICROS~1\2019\COMMUN~1\VC\Tools\MSVC\1427~1.291\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\Leetcode.dir\objects1.rsp @<<
+ /out:Leetcode.exe /implib:Leetcode.lib /pdb:C:\Users\fay\CLionProjects\Leetcode\cmake-build-debug\Leetcode.pdb /version:0.0  /machine:X86 /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib 
+>>>>>>> 17da05fce2b82d79c00523e2f51d561282a4860b
 <<
 
 # Rule to build all files generated by this target.
@@ -126,6 +167,10 @@ CMakeFiles\Leetcode.dir\clean:
 .PHONY : CMakeFiles\Leetcode.dir\clean
 
 CMakeFiles\Leetcode.dir\depend:
+<<<<<<< HEAD
 	$(CMAKE_COMMAND) -E cmake_depends "NMake Makefiles" C:\Users\fay\Documents\Github\leetcode\Leetcode-clion C:\Users\fay\Documents\Github\leetcode\Leetcode-clion C:\Users\fay\Documents\Github\leetcode\Leetcode-clion\cmake-build-debug C:\Users\fay\Documents\Github\leetcode\Leetcode-clion\cmake-build-debug C:\Users\fay\Documents\Github\leetcode\Leetcode-clion\cmake-build-debug\CMakeFiles\Leetcode.dir\DependInfo.cmake --color=$(COLOR)
+=======
+	$(CMAKE_COMMAND) -E cmake_depends "NMake Makefiles" C:\Users\fay\CLionProjects\Leetcode C:\Users\fay\CLionProjects\Leetcode C:\Users\fay\CLionProjects\Leetcode\cmake-build-debug C:\Users\fay\CLionProjects\Leetcode\cmake-build-debug C:\Users\fay\CLionProjects\Leetcode\cmake-build-debug\CMakeFiles\Leetcode.dir\DependInfo.cmake --color=$(COLOR)
+>>>>>>> 17da05fce2b82d79c00523e2f51d561282a4860b
 .PHONY : CMakeFiles\Leetcode.dir\depend
 
