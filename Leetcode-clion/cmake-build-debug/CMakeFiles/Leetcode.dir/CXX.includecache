@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/fay/CLionProjects/Leetcode/offer_51_reversed_pairs.cpp
+template.h
+C:/Users/fay/CLionProjects/Leetcode/template.h
+
+C:/Users/fay/CLionProjects/Leetcode/template.cpp
+template.h
+C:/Users/fay/CLionProjects/Leetcode/template.h
+
+C:/Users/fay/CLionProjects/Leetcode/template.h
+iostream
+-
+vector
+-
+fstream
+-
+string
+-
+sstream
+-
+iosfwd
+-
+istream
+-
+
