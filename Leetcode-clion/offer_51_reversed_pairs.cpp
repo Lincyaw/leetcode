@@ -48,6 +48,7 @@ public:
 
 int main() {
     string line;
+    cout<<"Please input a array."<<endl;
     while (getline(cin, line)) {
         vector<int> nums = stringToIntegerVector(line);
 
