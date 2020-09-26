@@ -1,9 +1,8 @@
 //
-// Created by fay on 2020/9/26.
+// Created by llincyaw on 2020/9/26.
 //
-#include "template.h"
 
-using namespace std;
+#include "template.h"
 
 class Solution {
 public:

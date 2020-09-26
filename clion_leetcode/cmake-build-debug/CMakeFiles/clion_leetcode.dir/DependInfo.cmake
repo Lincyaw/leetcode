@@ -4,10 +4,10 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/fay/Documents/Github/leetcode/clion_leetcode/offer_51_reversed_pairs.cpp" "C:/Users/fay/Documents/Github/leetcode/clion_leetcode/cmake-build-debug/CMakeFiles/clion_leetcode.dir/offer_51_reversed_pairs.cpp.obj"
-  "C:/Users/fay/Documents/Github/leetcode/clion_leetcode/template.cpp" "C:/Users/fay/Documents/Github/leetcode/clion_leetcode/cmake-build-debug/CMakeFiles/clion_leetcode.dir/template.cpp.obj"
+  "/home/llincyaw/Desktop/leetcode/clion_leetcode/493_reversePairs.cpp" "/home/llincyaw/Desktop/leetcode/clion_leetcode/cmake-build-debug/CMakeFiles/clion_leetcode.dir/493_reversePairs.cpp.o"
+  "/home/llincyaw/Desktop/leetcode/clion_leetcode/template.cpp" "/home/llincyaw/Desktop/leetcode/clion_leetcode/cmake-build-debug/CMakeFiles/clion_leetcode.dir/template.cpp.o"
   )
-set(CMAKE_CXX_COMPILER_ID "MSVC")
+set(CMAKE_CXX_COMPILER_ID "GNU")
 
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH

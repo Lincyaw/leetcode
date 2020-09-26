@@ -6,15 +6,11 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/fay/Documents/Github/leetcode/clion_leetcode/offer_51_reversed_pairs.cpp
+/home/llincyaw/Desktop/leetcode/clion_leetcode/493_reversePairs.cpp
 template.h
-C:/Users/fay/Documents/Github/leetcode/clion_leetcode/template.h
+/home/llincyaw/Desktop/leetcode/clion_leetcode/template.h
 
-C:/Users/fay/Documents/Github/leetcode/clion_leetcode/template.cpp
-template.h
-C:/Users/fay/Documents/Github/leetcode/clion_leetcode/template.h
-
-C:/Users/fay/Documents/Github/leetcode/clion_leetcode/template.h
+/home/llincyaw/Desktop/leetcode/clion_leetcode/template.h
 iostream
 -
 vector
@@ -28,5 +24,7 @@ sstream
 iosfwd
 -
 istream
+-
+algorithm
 -
 

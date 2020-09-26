@@ -10,11 +10,13 @@
 
 #include <iostream>
 #include <vector>
-#include<fstream>
+#include <fstream>
 #include <string>
 #include <sstream>
 #include <iosfwd>
 #include <istream>
+#include <algorithm>
+
 using namespace std;
 
 /// 清除左边的空格

@@ -1,9 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/clion_leetcode.dir/offer_51_reversed_pairs.cpp.obj"
-  "CMakeFiles/clion_leetcode.dir/template.cpp.obj"
-  "clion_leetcode.exe"
-  "clion_leetcode.exe.manifest"
-  "clion_leetcode.lib"
+  "CMakeFiles/clion_leetcode.dir/493_reversePairs.cpp.o"
+  "CMakeFiles/clion_leetcode.dir/template.cpp.o"
+  "clion_leetcode"
   "clion_leetcode.pdb"
 )
 
