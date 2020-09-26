@@ -3,12 +3,17 @@
 
 # Relative path conversion top directories.
 <<<<<<< HEAD
+<<<<<<< HEAD
 set(CMAKE_RELATIVE_PATH_TOP_SOURCE "C:/Users/fay/Documents/Github/leetcode/Leetcode-clion")
 set(CMAKE_RELATIVE_PATH_TOP_BINARY "C:/Users/fay/Documents/Github/leetcode/Leetcode-clion/cmake-build-debug")
 =======
 set(CMAKE_RELATIVE_PATH_TOP_SOURCE "C:/Users/fay/CLionProjects/Leetcode")
 set(CMAKE_RELATIVE_PATH_TOP_BINARY "C:/Users/fay/CLionProjects/Leetcode/cmake-build-debug")
 >>>>>>> 17da05fce2b82d79c00523e2f51d561282a4860b
+=======
+set(CMAKE_RELATIVE_PATH_TOP_SOURCE "C:/Users/fay/CLionProjects/Leetcode")
+set(CMAKE_RELATIVE_PATH_TOP_BINARY "C:/Users/fay/CLionProjects/Leetcode/cmake-build-debug")
+>>>>>>> parent of 588f99f... update clion project
 
 
 # The C and CXX include file regular expressions for this directory.

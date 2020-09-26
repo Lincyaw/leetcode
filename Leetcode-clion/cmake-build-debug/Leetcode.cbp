@@ -9,16 +9,21 @@
 		<Build>
 			<Target title="all">
 <<<<<<< HEAD
+<<<<<<< HEAD
 				<Option working_dir="C:/Users/fay/Documents/Github/leetcode/Leetcode-clion/cmake-build-debug"/>
+=======
+				<Option working_dir="C:/Users/fay/CLionProjects/Leetcode/cmake-build-debug"/>
+>>>>>>> parent of 588f99f... update clion project
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="nmake /NOLOGO /f C:\Users\fay\Documents\Github\leetcode\Leetcode-clion\cmake-build-debug\Makefile VERBOSE=1 all"/>
-					<CompileFile command="nmake /NOLOGO /f C:\Users\fay\Documents\Github\leetcode\Leetcode-clion\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="nmake /NOLOGO /f C:\Users\fay\Documents\Github\leetcode\Leetcode-clion\cmake-build-debug\Makefile VERBOSE=1 clean"/>
-					<DistClean command="nmake /NOLOGO /f C:\Users\fay\Documents\Github\leetcode\Leetcode-clion\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<Build command="nmake /NOLOGO /f C:\Users\fay\CLionProjects\Leetcode\cmake-build-debug\Makefile VERBOSE=1 all"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\fay\CLionProjects\Leetcode\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\fay\CLionProjects\Leetcode\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\fay\CLionProjects\Leetcode\cmake-build-debug\Makefile VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="Leetcode">
+<<<<<<< HEAD
 				<Option output="C:/Users/fay/Documents/Github/leetcode/Leetcode-clion/cmake-build-debug/Leetcode.exe" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="C:/Users/fay/Documents/Github/leetcode/Leetcode-clion/cmake-build-debug"/>
 =======
@@ -35,6 +40,10 @@
 				<Option output="C:/Users/fay/CLionProjects/Leetcode/cmake-build-debug/Leetcode.exe" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="C:/Users/fay/CLionProjects/Leetcode/cmake-build-debug"/>
 >>>>>>> 17da05fce2b82d79c00523e2f51d561282a4860b
+=======
+				<Option output="C:/Users/fay/CLionProjects/Leetcode/cmake-build-debug/Leetcode.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/fay/CLionProjects/Leetcode/cmake-build-debug"/>
+>>>>>>> parent of 588f99f... update clion project
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="msvc8"/>
@@ -48,6 +57,7 @@
 					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
 				</Compiler>
 				<MakeCommands>
+<<<<<<< HEAD
 <<<<<<< HEAD
 					<Build command="nmake /NOLOGO /f C:\Users\fay\Documents\Github\leetcode\Leetcode-clion\cmake-build-debug\Makefile VERBOSE=1 Leetcode"/>
 					<CompileFile command="nmake /NOLOGO /f C:\Users\fay\Documents\Github\leetcode\Leetcode-clion\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
@@ -69,6 +79,17 @@
 				<Option output="C:/Users/fay/CLionProjects/Leetcode/cmake-build-debug/Leetcode.exe" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="C:/Users/fay/CLionProjects/Leetcode/cmake-build-debug"/>
 >>>>>>> 17da05fce2b82d79c00523e2f51d561282a4860b
+=======
+					<Build command="nmake /NOLOGO /f C:\Users\fay\CLionProjects\Leetcode\cmake-build-debug\Makefile VERBOSE=1 Leetcode"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\fay\CLionProjects\Leetcode\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\fay\CLionProjects\Leetcode\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\fay\CLionProjects\Leetcode\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Leetcode/fast">
+				<Option output="C:/Users/fay/CLionProjects/Leetcode/cmake-build-debug/Leetcode.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/fay/CLionProjects/Leetcode/cmake-build-debug"/>
+>>>>>>> parent of 588f99f... update clion project
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="msvc8"/>
@@ -83,42 +104,50 @@
 				</Compiler>
 				<MakeCommands>
 <<<<<<< HEAD
+<<<<<<< HEAD
 					<Build command="nmake /NOLOGO /f C:\Users\fay\Documents\Github\leetcode\Leetcode-clion\cmake-build-debug\Makefile VERBOSE=1 Leetcode/fast"/>
 					<CompileFile command="nmake /NOLOGO /f C:\Users\fay\Documents\Github\leetcode\Leetcode-clion\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="nmake /NOLOGO /f C:\Users\fay\Documents\Github\leetcode\Leetcode-clion\cmake-build-debug\Makefile VERBOSE=1 clean"/>
 					<DistClean command="nmake /NOLOGO /f C:\Users\fay\Documents\Github\leetcode\Leetcode-clion\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+=======
+					<Build command="nmake /NOLOGO /f C:\Users\fay\CLionProjects\Leetcode\cmake-build-debug\Makefile VERBOSE=1 Leetcode/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\fay\CLionProjects\Leetcode\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\fay\CLionProjects\Leetcode\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\fay\CLionProjects\Leetcode\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+>>>>>>> parent of 588f99f... update clion project
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="C:/Users/fay/Documents/Github/leetcode/Leetcode-clion/cmake-build-debug"/>
+				<Option working_dir="C:/Users/fay/CLionProjects/Leetcode/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="nmake /NOLOGO /f C:\Users\fay\Documents\Github\leetcode\Leetcode-clion\cmake-build-debug\Makefile VERBOSE=1 edit_cache"/>
-					<CompileFile command="nmake /NOLOGO /f C:\Users\fay\Documents\Github\leetcode\Leetcode-clion\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="nmake /NOLOGO /f C:\Users\fay\Documents\Github\leetcode\Leetcode-clion\cmake-build-debug\Makefile VERBOSE=1 clean"/>
-					<DistClean command="nmake /NOLOGO /f C:\Users\fay\Documents\Github\leetcode\Leetcode-clion\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<Build command="nmake /NOLOGO /f C:\Users\fay\CLionProjects\Leetcode\cmake-build-debug\Makefile VERBOSE=1 edit_cache"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\fay\CLionProjects\Leetcode\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\fay\CLionProjects\Leetcode\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\fay\CLionProjects\Leetcode\cmake-build-debug\Makefile VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="C:/Users/fay/Documents/Github/leetcode/Leetcode-clion/cmake-build-debug"/>
+				<Option working_dir="C:/Users/fay/CLionProjects/Leetcode/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="nmake /NOLOGO /f C:\Users\fay\Documents\Github\leetcode\Leetcode-clion\cmake-build-debug\Makefile VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="nmake /NOLOGO /f C:\Users\fay\Documents\Github\leetcode\Leetcode-clion\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="nmake /NOLOGO /f C:\Users\fay\Documents\Github\leetcode\Leetcode-clion\cmake-build-debug\Makefile VERBOSE=1 clean"/>
-					<DistClean command="nmake /NOLOGO /f C:\Users\fay\Documents\Github\leetcode\Leetcode-clion\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<Build command="nmake /NOLOGO /f C:\Users\fay\CLionProjects\Leetcode\cmake-build-debug\Makefile VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\fay\CLionProjects\Leetcode\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\fay\CLionProjects\Leetcode\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\fay\CLionProjects\Leetcode\cmake-build-debug\Makefile VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="C:/Users/fay/Documents/Github/leetcode/Leetcode-clion/offer_51_reversed_pairs.cpp">
+		<Unit filename="C:/Users/fay/CLionProjects/Leetcode/offer_51_reversed_pairs.cpp">
 			<Option target="Leetcode"/>
 		</Unit>
-		<Unit filename="C:/Users/fay/Documents/Github/leetcode/Leetcode-clion/template.cpp">
+		<Unit filename="C:/Users/fay/CLionProjects/Leetcode/template.cpp">
 			<Option target="Leetcode"/>
 		</Unit>
-		<Unit filename="C:/Users/fay/Documents/Github/leetcode/Leetcode-clion/template.h">
+		<Unit filename="C:/Users/fay/CLionProjects/Leetcode/template.h">
 			<Option target="Leetcode"/>
 		</Unit>
+<<<<<<< HEAD
 		<Unit filename="C:/Users/fay/Documents/Github/leetcode/Leetcode-clion/CMakeLists.txt">
 =======
 					<Build command="nmake /NOLOGO /f C:\Users\fay\CLionProjects\Leetcode\cmake-build-debug\Makefile VERBOSE=1 Leetcode/fast"/>
@@ -159,6 +188,9 @@
 		</Unit>
 		<Unit filename="C:/Users/fay/CLionProjects/Leetcode/CMakeLists.txt">
 >>>>>>> 17da05fce2b82d79c00523e2f51d561282a4860b
+=======
+		<Unit filename="C:/Users/fay/CLionProjects/Leetcode/CMakeLists.txt">
+>>>>>>> parent of 588f99f... update clion project
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

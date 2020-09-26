@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 C:/Users/fay/Documents/Github/leetcode/Leetcode-clion/cmake-build-debug/CMakeFiles/Leetcode.dir
 C:/Users/fay/Documents/Github/leetcode/Leetcode-clion/cmake-build-debug/CMakeFiles/edit_cache.dir
 C:/Users/fay/Documents/Github/leetcode/Leetcode-clion/cmake-build-debug/CMakeFiles/rebuild_cache.dir
@@ -7,3 +8,8 @@ C:/Users/fay/CLionProjects/Leetcode/cmake-build-debug/CMakeFiles/Leetcode.dir
 C:/Users/fay/CLionProjects/Leetcode/cmake-build-debug/CMakeFiles/edit_cache.dir
 C:/Users/fay/CLionProjects/Leetcode/cmake-build-debug/CMakeFiles/rebuild_cache.dir
 >>>>>>> 17da05fce2b82d79c00523e2f51d561282a4860b
+=======
+C:/Users/fay/CLionProjects/Leetcode/cmake-build-debug/CMakeFiles/Leetcode.dir
+C:/Users/fay/CLionProjects/Leetcode/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/fay/CLionProjects/Leetcode/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+>>>>>>> parent of 588f99f... update clion project

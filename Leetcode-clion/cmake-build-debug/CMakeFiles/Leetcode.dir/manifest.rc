@@ -1,6 +1,10 @@
 #pragma code_page(65001)
 <<<<<<< HEAD
+<<<<<<< HEAD
 1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "C:/Users/fay/Documents/Github/leetcode/Leetcode-clion/cmake-build-debug/CMakeFiles/Leetcode.dir/embed.manifest"
 =======
 1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "C:/Users/fay/CLionProjects/Leetcode/cmake-build-debug/CMakeFiles/Leetcode.dir/embed.manifest"
 >>>>>>> 17da05fce2b82d79c00523e2f51d561282a4860b
+=======
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "C:/Users/fay/CLionProjects/Leetcode/cmake-build-debug/CMakeFiles/Leetcode.dir/embed.manifest"
+>>>>>>> parent of 588f99f... update clion project

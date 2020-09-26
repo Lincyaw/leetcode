@@ -1,8 +1,12 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Install script for directory: C:/Users/fay/Documents/Github/leetcode/Leetcode-clion
 =======
 # Install script for directory: C:/Users/fay/CLionProjects/Leetcode
 >>>>>>> 17da05fce2b82d79c00523e2f51d561282a4860b
+=======
+# Install script for directory: C:/Users/fay/CLionProjects/Leetcode
+>>>>>>> parent of 588f99f... update clion project
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,8 +49,12 @@ endif()
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
 <<<<<<< HEAD
+<<<<<<< HEAD
 file(WRITE "C:/Users/fay/Documents/Github/leetcode/Leetcode-clion/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
 =======
 file(WRITE "C:/Users/fay/CLionProjects/Leetcode/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
 >>>>>>> 17da05fce2b82d79c00523e2f51d561282a4860b
+=======
+file(WRITE "C:/Users/fay/CLionProjects/Leetcode/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+>>>>>>> parent of 588f99f... update clion project
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

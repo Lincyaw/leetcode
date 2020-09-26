@@ -8,23 +8,16 @@ set(CMAKE_DEPENDS_GENERATOR "NMake Makefiles")
 set(CMAKE_MAKEFILE_DEPENDS
   "CMakeCache.txt"
 <<<<<<< HEAD
+<<<<<<< HEAD
   "C:/Program Files/JetBrains/CLion 2020.2.3/bin/cmake/win/share/cmake-3.17/Modules/CMakeCCompiler.cmake.in"
   "C:/Program Files/JetBrains/CLion 2020.2.3/bin/cmake/win/share/cmake-3.17/Modules/CMakeCCompilerABI.c"
+=======
+>>>>>>> parent of 588f99f... update clion project
   "C:/Program Files/JetBrains/CLion 2020.2.3/bin/cmake/win/share/cmake-3.17/Modules/CMakeCInformation.cmake"
-  "C:/Program Files/JetBrains/CLion 2020.2.3/bin/cmake/win/share/cmake-3.17/Modules/CMakeCXXCompiler.cmake.in"
-  "C:/Program Files/JetBrains/CLion 2020.2.3/bin/cmake/win/share/cmake-3.17/Modules/CMakeCXXCompilerABI.cpp"
   "C:/Program Files/JetBrains/CLion 2020.2.3/bin/cmake/win/share/cmake-3.17/Modules/CMakeCXXInformation.cmake"
   "C:/Program Files/JetBrains/CLion 2020.2.3/bin/cmake/win/share/cmake-3.17/Modules/CMakeCommonLanguageInclude.cmake"
-  "C:/Program Files/JetBrains/CLion 2020.2.3/bin/cmake/win/share/cmake-3.17/Modules/CMakeCompilerIdDetection.cmake"
-  "C:/Program Files/JetBrains/CLion 2020.2.3/bin/cmake/win/share/cmake-3.17/Modules/CMakeDetermineCCompiler.cmake"
-  "C:/Program Files/JetBrains/CLion 2020.2.3/bin/cmake/win/share/cmake-3.17/Modules/CMakeDetermineCXXCompiler.cmake"
-  "C:/Program Files/JetBrains/CLion 2020.2.3/bin/cmake/win/share/cmake-3.17/Modules/CMakeDetermineCompileFeatures.cmake"
-  "C:/Program Files/JetBrains/CLion 2020.2.3/bin/cmake/win/share/cmake-3.17/Modules/CMakeDetermineCompiler.cmake"
-  "C:/Program Files/JetBrains/CLion 2020.2.3/bin/cmake/win/share/cmake-3.17/Modules/CMakeDetermineCompilerABI.cmake"
-  "C:/Program Files/JetBrains/CLion 2020.2.3/bin/cmake/win/share/cmake-3.17/Modules/CMakeDetermineCompilerId.cmake"
-  "C:/Program Files/JetBrains/CLion 2020.2.3/bin/cmake/win/share/cmake-3.17/Modules/CMakeDetermineRCCompiler.cmake"
-  "C:/Program Files/JetBrains/CLion 2020.2.3/bin/cmake/win/share/cmake-3.17/Modules/CMakeDetermineSystem.cmake"
   "C:/Program Files/JetBrains/CLion 2020.2.3/bin/cmake/win/share/cmake-3.17/Modules/CMakeExtraGeneratorDetermineCompilerMacrosAndIncludeDirs.cmake"
+<<<<<<< HEAD
   "C:/Program Files/JetBrains/CLion 2020.2.3/bin/cmake/win/share/cmake-3.17/Modules/CMakeFindBinUtils.cmake"
 =======
   "C:/Program Files/JetBrains/CLion 2020.2.3/bin/cmake/win/share/cmake-3.17/Modules/CMakeCInformation.cmake"
@@ -32,49 +25,27 @@ set(CMAKE_MAKEFILE_DEPENDS
   "C:/Program Files/JetBrains/CLion 2020.2.3/bin/cmake/win/share/cmake-3.17/Modules/CMakeCommonLanguageInclude.cmake"
   "C:/Program Files/JetBrains/CLion 2020.2.3/bin/cmake/win/share/cmake-3.17/Modules/CMakeExtraGeneratorDetermineCompilerMacrosAndIncludeDirs.cmake"
 >>>>>>> 17da05fce2b82d79c00523e2f51d561282a4860b
+=======
+>>>>>>> parent of 588f99f... update clion project
   "C:/Program Files/JetBrains/CLion 2020.2.3/bin/cmake/win/share/cmake-3.17/Modules/CMakeFindCodeBlocks.cmake"
   "C:/Program Files/JetBrains/CLion 2020.2.3/bin/cmake/win/share/cmake-3.17/Modules/CMakeGenericSystem.cmake"
   "C:/Program Files/JetBrains/CLion 2020.2.3/bin/cmake/win/share/cmake-3.17/Modules/CMakeInitializeConfigs.cmake"
   "C:/Program Files/JetBrains/CLion 2020.2.3/bin/cmake/win/share/cmake-3.17/Modules/CMakeLanguageInformation.cmake"
 <<<<<<< HEAD
+<<<<<<< HEAD
   "C:/Program Files/JetBrains/CLion 2020.2.3/bin/cmake/win/share/cmake-3.17/Modules/CMakeNMakeFindMake.cmake"
   "C:/Program Files/JetBrains/CLion 2020.2.3/bin/cmake/win/share/cmake-3.17/Modules/CMakeParseImplicitIncludeInfo.cmake"
   "C:/Program Files/JetBrains/CLion 2020.2.3/bin/cmake/win/share/cmake-3.17/Modules/CMakeParseImplicitLinkInfo.cmake"
   "C:/Program Files/JetBrains/CLion 2020.2.3/bin/cmake/win/share/cmake-3.17/Modules/CMakeRCCompiler.cmake.in"
+=======
+>>>>>>> parent of 588f99f... update clion project
   "C:/Program Files/JetBrains/CLion 2020.2.3/bin/cmake/win/share/cmake-3.17/Modules/CMakeRCInformation.cmake"
-  "C:/Program Files/JetBrains/CLion 2020.2.3/bin/cmake/win/share/cmake-3.17/Modules/CMakeSystem.cmake.in"
   "C:/Program Files/JetBrains/CLion 2020.2.3/bin/cmake/win/share/cmake-3.17/Modules/CMakeSystemSpecificInformation.cmake"
   "C:/Program Files/JetBrains/CLion 2020.2.3/bin/cmake/win/share/cmake-3.17/Modules/CMakeSystemSpecificInitialize.cmake"
-  "C:/Program Files/JetBrains/CLion 2020.2.3/bin/cmake/win/share/cmake-3.17/Modules/CMakeTestCCompiler.cmake"
-  "C:/Program Files/JetBrains/CLion 2020.2.3/bin/cmake/win/share/cmake-3.17/Modules/CMakeTestCXXCompiler.cmake"
-  "C:/Program Files/JetBrains/CLion 2020.2.3/bin/cmake/win/share/cmake-3.17/Modules/CMakeTestCompilerCommon.cmake"
-  "C:/Program Files/JetBrains/CLion 2020.2.3/bin/cmake/win/share/cmake-3.17/Modules/CMakeTestRCCompiler.cmake"
-  "C:/Program Files/JetBrains/CLion 2020.2.3/bin/cmake/win/share/cmake-3.17/Modules/Compiler/ADSP-DetermineCompiler.cmake"
-  "C:/Program Files/JetBrains/CLion 2020.2.3/bin/cmake/win/share/cmake-3.17/Modules/Compiler/ARMCC-DetermineCompiler.cmake"
-  "C:/Program Files/JetBrains/CLion 2020.2.3/bin/cmake/win/share/cmake-3.17/Modules/Compiler/ARMClang-DetermineCompiler.cmake"
-  "C:/Program Files/JetBrains/CLion 2020.2.3/bin/cmake/win/share/cmake-3.17/Modules/Compiler/AppleClang-DetermineCompiler.cmake"
-  "C:/Program Files/JetBrains/CLion 2020.2.3/bin/cmake/win/share/cmake-3.17/Modules/Compiler/Borland-DetermineCompiler.cmake"
-  "C:/Program Files/JetBrains/CLion 2020.2.3/bin/cmake/win/share/cmake-3.17/Modules/Compiler/Bruce-C-DetermineCompiler.cmake"
   "C:/Program Files/JetBrains/CLion 2020.2.3/bin/cmake/win/share/cmake-3.17/Modules/Compiler/CMakeCommonCompilerMacros.cmake"
-  "C:/Program Files/JetBrains/CLion 2020.2.3/bin/cmake/win/share/cmake-3.17/Modules/Compiler/Clang-DetermineCompiler.cmake"
-  "C:/Program Files/JetBrains/CLion 2020.2.3/bin/cmake/win/share/cmake-3.17/Modules/Compiler/Clang-DetermineCompilerInternal.cmake"
-  "C:/Program Files/JetBrains/CLion 2020.2.3/bin/cmake/win/share/cmake-3.17/Modules/Compiler/Comeau-CXX-DetermineCompiler.cmake"
-  "C:/Program Files/JetBrains/CLion 2020.2.3/bin/cmake/win/share/cmake-3.17/Modules/Compiler/Compaq-C-DetermineCompiler.cmake"
-  "C:/Program Files/JetBrains/CLion 2020.2.3/bin/cmake/win/share/cmake-3.17/Modules/Compiler/Compaq-CXX-DetermineCompiler.cmake"
-  "C:/Program Files/JetBrains/CLion 2020.2.3/bin/cmake/win/share/cmake-3.17/Modules/Compiler/Cray-DetermineCompiler.cmake"
-  "C:/Program Files/JetBrains/CLion 2020.2.3/bin/cmake/win/share/cmake-3.17/Modules/Compiler/Embarcadero-DetermineCompiler.cmake"
-  "C:/Program Files/JetBrains/CLion 2020.2.3/bin/cmake/win/share/cmake-3.17/Modules/Compiler/Fujitsu-DetermineCompiler.cmake"
-  "C:/Program Files/JetBrains/CLion 2020.2.3/bin/cmake/win/share/cmake-3.17/Modules/Compiler/GHS-DetermineCompiler.cmake"
-  "C:/Program Files/JetBrains/CLion 2020.2.3/bin/cmake/win/share/cmake-3.17/Modules/Compiler/GNU-C-DetermineCompiler.cmake"
-  "C:/Program Files/JetBrains/CLion 2020.2.3/bin/cmake/win/share/cmake-3.17/Modules/Compiler/GNU-CXX-DetermineCompiler.cmake"
-  "C:/Program Files/JetBrains/CLion 2020.2.3/bin/cmake/win/share/cmake-3.17/Modules/Compiler/HP-C-DetermineCompiler.cmake"
-  "C:/Program Files/JetBrains/CLion 2020.2.3/bin/cmake/win/share/cmake-3.17/Modules/Compiler/HP-CXX-DetermineCompiler.cmake"
-  "C:/Program Files/JetBrains/CLion 2020.2.3/bin/cmake/win/share/cmake-3.17/Modules/Compiler/IAR-DetermineCompiler.cmake"
-  "C:/Program Files/JetBrains/CLion 2020.2.3/bin/cmake/win/share/cmake-3.17/Modules/Compiler/IBMCPP-C-DetermineVersionInternal.cmake"
-  "C:/Program Files/JetBrains/CLion 2020.2.3/bin/cmake/win/share/cmake-3.17/Modules/Compiler/IBMCPP-CXX-DetermineVersionInternal.cmake"
-  "C:/Program Files/JetBrains/CLion 2020.2.3/bin/cmake/win/share/cmake-3.17/Modules/Compiler/Intel-DetermineCompiler.cmake"
   "C:/Program Files/JetBrains/CLion 2020.2.3/bin/cmake/win/share/cmake-3.17/Modules/Compiler/MSVC-C.cmake"
   "C:/Program Files/JetBrains/CLion 2020.2.3/bin/cmake/win/share/cmake-3.17/Modules/Compiler/MSVC-CXX.cmake"
+<<<<<<< HEAD
   "C:/Program Files/JetBrains/CLion 2020.2.3/bin/cmake/win/share/cmake-3.17/Modules/Compiler/MSVC-DetermineCompiler.cmake"
   "C:/Program Files/JetBrains/CLion 2020.2.3/bin/cmake/win/share/cmake-3.17/Modules/Compiler/NVIDIA-DetermineCompiler.cmake"
   "C:/Program Files/JetBrains/CLion 2020.2.3/bin/cmake/win/share/cmake-3.17/Modules/Compiler/OpenWatcom-DetermineCompiler.cmake"
@@ -105,6 +76,8 @@ set(CMAKE_MAKEFILE_DEPENDS
   "C:/Program Files/JetBrains/CLion 2020.2.3/bin/cmake/win/share/cmake-3.17/Modules/Compiler/MSVC-C.cmake"
   "C:/Program Files/JetBrains/CLion 2020.2.3/bin/cmake/win/share/cmake-3.17/Modules/Compiler/MSVC-CXX.cmake"
 >>>>>>> 17da05fce2b82d79c00523e2f51d561282a4860b
+=======
+>>>>>>> parent of 588f99f... update clion project
   "C:/Program Files/JetBrains/CLion 2020.2.3/bin/cmake/win/share/cmake-3.17/Modules/Platform/Windows-MSVC-C.cmake"
   "C:/Program Files/JetBrains/CLion 2020.2.3/bin/cmake/win/share/cmake-3.17/Modules/Platform/Windows-MSVC-CXX.cmake"
   "C:/Program Files/JetBrains/CLion 2020.2.3/bin/cmake/win/share/cmake-3.17/Modules/Platform/Windows-MSVC.cmake"
@@ -127,6 +100,7 @@ set(CMAKE_MAKEFILE_OUTPUTS
 # Byproducts of CMake generate step:
 set(CMAKE_MAKEFILE_PRODUCTS
 <<<<<<< HEAD
+<<<<<<< HEAD
   "CMakeFiles/3.17.3/CMakeSystem.cmake"
   "CMakeFiles/3.17.3/CMakeCCompiler.cmake"
   "CMakeFiles/3.17.3/CMakeCXXCompiler.cmake"
@@ -135,6 +109,8 @@ set(CMAKE_MAKEFILE_PRODUCTS
   "CMakeFiles/3.17.3/CMakeCXXCompiler.cmake"
 =======
 >>>>>>> 17da05fce2b82d79c00523e2f51d561282a4860b
+=======
+>>>>>>> parent of 588f99f... update clion project
   "CMakeFiles/CMakeDirectoryInformation.cmake"
   )
 

@@ -7,14 +7,19 @@
 #IncludeRegexTransform: 
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 C:/Users/fay/Documents/Github/leetcode/Leetcode-clion/offer_51_reversed_pairs.cpp
+=======
+C:/Users/fay/CLionProjects/Leetcode/offer_51_reversed_pairs.cpp
+>>>>>>> parent of 588f99f... update clion project
 template.h
-C:/Users/fay/Documents/Github/leetcode/Leetcode-clion/template.h
+C:/Users/fay/CLionProjects/Leetcode/template.h
 
-C:/Users/fay/Documents/Github/leetcode/Leetcode-clion/template.cpp
+C:/Users/fay/CLionProjects/Leetcode/template.cpp
 template.h
-C:/Users/fay/Documents/Github/leetcode/Leetcode-clion/template.h
+C:/Users/fay/CLionProjects/Leetcode/template.h
 
+<<<<<<< HEAD
 C:/Users/fay/Documents/Github/leetcode/Leetcode-clion/template.h
 =======
 C:/Users/fay/CLionProjects/Leetcode/offer_51_reversed_pairs.cpp
@@ -27,6 +32,9 @@ C:/Users/fay/CLionProjects/Leetcode/template.h
 
 C:/Users/fay/CLionProjects/Leetcode/template.h
 >>>>>>> 17da05fce2b82d79c00523e2f51d561282a4860b
+=======
+C:/Users/fay/CLionProjects/Leetcode/template.h
+>>>>>>> parent of 588f99f... update clion project
 iostream
 -
 vector
